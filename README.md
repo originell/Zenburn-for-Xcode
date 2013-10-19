@@ -1,7 +1,7 @@
 Zenburn for Xcode
 =================
 
-<img src="http://janten.com/downloads/zenburn-xcode.png" alt="Zenburn" width="629" height="137">
+![Zenburn](https://raw.github.com/originell/Zenburn-for-Xcode/master/screenshot.png)
 
 Installation
 ------------
